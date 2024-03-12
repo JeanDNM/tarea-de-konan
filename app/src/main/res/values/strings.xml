@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">konanelguerrero</string>
+    <string name="nombre">Konan El Barbaro</string>
+    <string name="ocupacion">Guerrero Historico</string>
+    <string name="ciudad">La Aldea De Konan</string>
+    <string name="fuerza">600 / 1000</string>
+    <string name="armas">520 / 1000</string>
+    <string name="strong">Fuerza</string>
+    <string name="victimas">Victimas</string>
+    <string name="num_victimas">4200</string>
+    <string name="armas_t">Armas</string>
+    <string name="titulo">Sobre Konan</string>
+    <string name="cuerpo">Lorem Ipsum Dolor Sit Amet</string>
+    <string name="background">Background</string>
+
+</resources>
